@@ -1,7 +1,6 @@
 # examPortalSpringBoot
-exam portal  using  springboot angular java
+Exam Portal  using  Spring-Boot Java
 
-<a href="https://www.agarwalvaibhav.com">Vaibhav Agarwal</a>
 
 
 EXAM DOJO
